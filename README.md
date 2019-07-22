@@ -1,2 +1,2 @@
 # Certificates
-This repository records the certifactes I got. 
+This repository records the certificates I got. 
